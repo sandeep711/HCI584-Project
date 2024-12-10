@@ -59,7 +59,7 @@ Once the environment is set up and dependencies are installed, run this line of 
 
 ## MacOS
 
-From my experience with working on this project, Tkinter can face compatibility issues on macOS, particularly when run in VS Code's integrated terminal. To mitigate these issues, it's best to use a an isolated Python virtual environment.
+From my experience with working on this project, Tkinter can face compatibility issues on macOS, particularly when run in VS Code's integrated terminal. To mitigate these issues, it's best to use an isolated Python virtual environment.
 
 Instructions for those are:
 1. Setup Virtual Environment : `python3 -m venv tkinter_env`
